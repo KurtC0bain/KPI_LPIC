@@ -3,7 +3,7 @@
 mkdir IS-03_Maxym_Pishchuk
 cd IS-03_Maxym_Pishchuk
 wget -O site_text.txt  https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md 
-wget --output-document=important.jpeg https://raw.githubusercontent.com/KurtC0bain/KPI_LPIC/scripts/Studio_Project.jpeg 
+wget --output-document=important.jpeg https://raw.githubusercontent.com/KurtC0bain/kali/master/Studio_Project.jpeg?token=ALQUMQEUILVIWSCBEQX5PTS75OUXS
 echo "File was successfully downloaded!"
 echo " "
 echo " "
