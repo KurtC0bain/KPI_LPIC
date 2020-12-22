@@ -1,0 +1,21 @@
+#!/bin/bash
+
+mkdir IS-03_Maxym_Pishchuk
+cd IS-03_Maxym_Pishchuk
+wget -O site_text.txt  https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md 
+echo "File was successfully downloaded!"
+echo " "
+echo " "
+for((q = 0; q < 35; q++))
+do
+echo -n "#"
+done
+echo " "
+echo -n "The number of lines (site_txt.txt): "
+cat site_text.txt | wc -l
+for((a = 0; a < 35; a++))
+do 
+echo -n "#"
+done
+echo " "
+echo " " 
