@@ -45,4 +45,3 @@ HI @vovik_me and @xpams! I want you to be happy in the following year. I wish yo
                          _________o___$$$$$$$$$$$$_____$$
                          ______$______$$$$$$_$$_____$$_$$
                          ___o_________$$$$$$$__________$$
-                                            
