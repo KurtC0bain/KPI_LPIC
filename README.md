@@ -1,4 +1,12 @@
 # KPI_LPIC
+
+MY TASK №4: Count the number of lines in a file by the url https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md
+
+###I wrote a small program to determine which variant am I. It is called "VCheck", in main###  
+
+
+
+
 HI @vovik_me and @xpams! I want you to be happy in the following year. I wish you "Viele Gruse" and be better than you was in 2020.
 
                                  ╔─────────────────────────────╗
