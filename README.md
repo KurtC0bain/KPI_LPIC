@@ -1,8 +1,8 @@
 # KPI_LPIC
 
-MY TASK №4: Count the number of lines in a file by the url https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md
+MY TASK №4: Count the number of lines in a file by the url for example https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md
 
-###I wrote a small program to determine which variant am I. It is called "VCheck", in main###  
+ 
 
 
 
