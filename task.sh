@@ -25,5 +25,5 @@ echo -n "#"
 done
 echo " "
 echo " "
-echo "Open the folder, pls"
+xdg-open important.jpeg
  
